@@ -5,4 +5,3 @@
 - sql query : [library-core] -> BookRepository.class
 - kafka & stream based application : folder /kafka/..
 - redis : [library-core] -> BookService.class
-- 
